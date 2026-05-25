@@ -1,4 +1,4 @@
-# Hi, I'm Renato Villaron 👋
+# Hi, I'm Renato Villaron 
 
 **Planning Analyst · Revenue Operations · Sales Analytics**  
 📍 Brazil &nbsp;|&nbsp; 🌎 Open to remote opportunities &nbsp;|&nbsp; 🇧🇷 🇺🇸 🇪🇸
@@ -38,11 +38,11 @@ At 19, I've already shipped two production systems that eliminated headcount and
 
 ## Featured Projects
 
-### 🎙️ [Sales Call QA Pipeline](https://github.com/renato-villaron/sales-call-qa-pipeline)
+###  [Sales Call QA Pipeline](https://github.com/renato-villaron/sales-call-qa-pipeline)
 > Whisper + GPT pipeline that transcribes, diarizes, and quality-analyzes sales calls at scale.  
 > **21,000+ calls · 7 months in production · 10-person team replaced**
 
-### 📊 Sales Ops Dashboard *(coming soon)*
+###  Sales Ops Dashboard *(coming soon)*
 > Real-time HTML dashboard pulling from SQL + Google Sheets, with automatic agent rerouting based on live conversion, occupancy, and queue metrics.  
 > **17,000+ daily calls · 1 control desk operator replaced**
 
@@ -54,8 +54,8 @@ Remote roles in **Revenue Operations**, **Sales Analytics**, or **Data Analytics
 
 I work well in fast-moving sales environments — I've lived inside one for the past year.
 
-📬 **joserenatovillaron@gmail.com**  
-💼 **[LinkedIn](https://linkedin.com/in/renato-villaron)** ← *(add your link here)*
+ **joserenatovillaron@gmail.com**  
+ **[LinkedIn](https://linkedin.com/in/renato-villaron)** 
 
 ---
 
